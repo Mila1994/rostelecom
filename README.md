@@ -6,9 +6,9 @@ of the page in case any test case will fail.
 
 [pages/base.py](pages/base.py) contains PageObject pattern implementation for Python.
 
-[auth_page.py](pages/auth_page.py) authorization page for working with autotests.
+[pages/auth_page.py](pages/auth_page.py) authorization page for working with autotests.
 
-[registration_page.py](pages/registration_page.py) registration page for working with autotests.
+[pages/registration_page.py](pages/registration_page.py) registration page for working with autotests.
 
 [pages/elements.py](pages/elements.py) contains helper class to define web elements on web pages.
 
